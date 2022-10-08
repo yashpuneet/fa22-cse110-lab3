@@ -59,11 +59,54 @@
 						<label for="name">Name:</label><br>
 						<input type="text" id="name" name="name">
 						<br>
+						<br>
+						<label for="date">Feedback Date:</label><br>
+						<input type="date" id="date" name="date">
+						<br>
 						<p>Did you attend the meeting?</p>
 						<input type="radio" id="Yes" name="attended" value="Yes">
 						<label for="Yes">Yes</label><br>
 						<input type="radio" id="No" name="attended" value="No">
 						<label for="No">No</label><br>
+					</fieldset>
+					<br>
+					<fieldset>
+						<legend>Technical Environment Details</legend>
+						<label for="language">What is your preffered programming language?</label>
+  						<input list="languages" name="language" id="langauge">
+  						<datalist id="languages">
+    						<option value="C++">
+    						<option value="Java">
+    						<option value="Python">
+    						<option value="Javascript">
+    						<option value="C">
+  						</datalist>
+						<br>
+						<br>
+						<label for="os">Select your operating system:</label>
+						<select id="os" name="os">
+  							<option value="windows">Windows</option>
+  							<option value="mac">MacOS</option>
+  							<option value="Linux">Linux</option>
+  							<option value="other">Other</option>
+						</select>
+					</fieldset>
+					<br>
+					<fieldset>
+						<legend>Feedback/Comments</legend>
+						<label for="feedback">Please type your feedback/comments:</label><br>
+						<textarea id="feedback" name="feedback" rows="5"
+							cols="50">Please type anything you would like us to know related to the meeting and its points of discussion.</textarea><br>
+						<br>
+						<p>Which topic(s) should we focus more on?</p>
+						<input type="checkbox" id="topic1" name="topic1" value="Slack">
+						<label for="topic1"> Slack</label><br>
+						<input type="checkbox" id="topic2" name="topic2" value="Google Docs">
+						<label for="topic2"> Google Docs</label><br>
+						<input type="checkbox" id="topic3" name="topic3" value="Github">
+						<label for="topic3"> Github</label><br>
+						<input type="checkbox" id="topic4" name="topic4" value="VSCode">
+						<label for="topic4"> VSCode</label><br>
 					</fieldset>
 					<br>
 					<button type="submit" form="comments"

@@ -11,6 +11,7 @@
 	<body>
 
 		<header>
+
 			<h1>Meeting 1 Minutes: Getting Set Up</h1>
 
 			<div>
@@ -18,15 +19,24 @@
 				<h3>Date: Thursday, October 6th, 2022</h3>
 				<h3>Time: 12:00 - 13:30</h3>
 			</div>
+
+			<hr>
+
+			<div>
+				<p>Members in Attendance: A, B, C, D, E</p>
+				<p>Members not in Attendance: F, G</p>
+			</div>
+
 		</header>
+
+		<hr>
 
 		<nav>
 		</nav>
 
+		<hr>
+
 		<main>
-			<section>
-				<h2>Attendance</h2>
-			</section>
 
 			<section>
 				<h2>Agenda</h2>
@@ -39,6 +49,28 @@
 			<section>
 				<h2>Additional Notes</h2>
 			</section>
+
+			<section>
+				<h2>Post-meeting Comments</h2>
+
+				<form id="comments">
+					<fieldset>
+						<legend>Basic Details</legend>
+						<label for="name">Name:</label><br>
+						<input type="text" id="name" name="name">
+						<br>
+						<p>Did you attend the meeting?</p>
+						<input type="radio" id="Yes" name="attended" value="Yes">
+						<label for="Yes">Yes</label><br>
+						<input type="radio" id="No" name="attended" value="No">
+						<label for="No">No</label><br>
+					</fieldset>
+					<br>
+					<button type="submit" form="comments"
+										  value="Submit">Submit</button>
+				</form>
+			</section>
+
 		</main>
 
 		<footer></footer>

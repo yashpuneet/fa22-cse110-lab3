@@ -1,6 +1,6 @@
 # Lab 2
 
-Link to minutes webpage [https://yashpuneet.github.io/CSE110_Lab2/](https://yashpuneet.github.io/CSE110_Lab2/).
+Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https://yashpuneet.github.io/fa22-cse110-lab3/).
 
 
 ### W3 Validator Screenshot:

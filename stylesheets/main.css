@@ -1,0 +1,17 @@
+/*
+ * Styling of Page footer
+ *	- Center alignment
+ *	- Lighten text color to light grey
+ */
+footer {
+	text-align: center;
+	color: #b2b2b2;
+}
+
+/*
+ * Stylng for Navigation Bar
+ * 	- Center alignment
+ */
+nav {
+	text-align: center;
+}

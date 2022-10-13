@@ -15,3 +15,18 @@ footer {
 nav {
 	text-align: center;
 }
+
+/*
+ * Styling for all headings in webpage
+ */
+.heading {
+	text-decoration: overline underline double red auto;
+}
+
+/*
+ * Styling for all sub-headings in webpage
+ */
+.sub-heading {
+	text-decoration: underline dotted orange auto;
+}
+

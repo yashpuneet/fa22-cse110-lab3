@@ -1,4 +1,13 @@
 /*
+ * Adding web font dancing script to use for headings
+ * in the webpage.
+ */
+@font-face {
+	font-family: dancing-script;
+	src: url(fonts/DancingScript-Regular.ttf);
+}
+
+/*
  * Styling of Page footer
  *	- Center alignment
  *	- Lighten text color to light grey
@@ -20,7 +29,8 @@ nav {
  * Styling for all headings in webpage
  */
 .heading {
-	text-decoration: overline underline double red auto;
+	text-decoration: overline double red auto;
+	font-family: dancing-script;
 }
 
 /*
@@ -28,5 +38,6 @@ nav {
  */
 .sub-heading {
 	text-decoration: underline dotted orange auto;
+	font-family: dancing-script;
 }
 

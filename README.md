@@ -12,9 +12,9 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
 
 - [ ] Color
   - [ ] rgb color
-  - [ ] hex color
+  - [X] hex color
   - [ ] hsl color
-  - [ ] color name
+  - [X] color name
   - [ ] background-color
 
 - [ ] Size
@@ -41,9 +41,9 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
     
 - [ ] Text
   - [ ] Color
-  - [ ] Decoration
-  - [ ] Align
-  - [ ] Web font
+  - [X] Decoration
+  - [X] Align
+  - [X] Web font
   
 - [ ] Display x2
 - [ ] Position x2
@@ -59,10 +59,10 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
   - [ ] Grid
   
 - [ ] Selectors
-  - [ ] Class
+  - [X] Class
   - [ ] ID
   - [ ] Universal
-  - [ ] Element
+  - [X] Element
   - [ ] Attribute
   - [ ] Pseudoclass
   - [ ] List

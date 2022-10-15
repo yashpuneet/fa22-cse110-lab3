@@ -1,4 +1,4 @@
-# Lab 2
+# Lab 3
 
 Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https://yashpuneet.github.io/fa22-cse110-lab3/).
 

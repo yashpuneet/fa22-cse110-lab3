@@ -19,7 +19,7 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
 
 - [ ] Size
   - [ ] 3 unique relative units
-  - [ ] 3 unique absolute units
+  - [X] 3 unique absolute units
   - [ ] Height
   - [ ] Width
   - [ ] Max-width
@@ -27,17 +27,18 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
 
 - [ ] Box Model
   - [ ] Margins
-    - [ ] Longhand
-    - [ ] Shorthand
+    - [X] Longhand
+    - [X] Shorthand
     - [ ] Auto
-  - [ ] Padding
-    - [ ] Longhand
-    - [ ] Shorthand
-  - [ ] Border
-    - [ ] Style
-    - [ ] Color
-    - [ ] Width
-    - [ ] Radius
+  - [X] Padding
+    - [X] Longhand
+    - [X] Shorthand
+  - [X] Border
+    - [X] Style
+    - [X] Color
+    - [X] Width
+    - [X] Radius
+	- [X] Shorthand
     
 - [ ] Text
   - [ ] Color

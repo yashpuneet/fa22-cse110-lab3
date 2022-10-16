@@ -70,7 +70,7 @@ video, audio {
 
 	margin: 1.5ch 1.5ch 1.5ch 1.5ch;
 
-	padding: 3% 3% 3% 3%;
+	padding: 3vh 3vh 3vw 3vw;
 }
 
 #Agenda {
@@ -88,4 +88,15 @@ video, audio {
 	padding-bottom: 1pc;
 	padding-right: 1pc;
 	padding-left: 1pc;
+}
+
+form {
+	width: 70%;
+	margin: auto;
+}
+
+img {
+	min-width: 30%;
+	max-width: 80%;
+	height: 10cm;
 }

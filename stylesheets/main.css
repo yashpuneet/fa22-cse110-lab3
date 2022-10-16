@@ -8,6 +8,14 @@
 }
 
 /*
+ * Defining default styling for webpage
+ */
+
+* {
+	background-color: hsl(60, 96%, 79%);
+}
+
+/*
  * Styling of Page footer
  *	- Center alignment
  *	- Lighten text color to light grey
@@ -37,7 +45,18 @@ nav {
  * Styling for all sub-headings in webpage
  */
 .sub-heading {
-	text-decoration: underline dotted orange auto;
+	text-decoration: underline dotted blue auto;
 	font-family: dancing-script;
 }
 
+/*
+ * Styling for section with id Rec - containing 
+ * meeting recordings
+ */
+#Rec {
+	background-color: rgb(193, 255, 193);
+}
+
+video, audio {
+	background-color: rgb(193, 255, 193);
+}

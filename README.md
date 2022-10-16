@@ -10,12 +10,12 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
 
 #### Required CSS
 
-- [ ] Color
-  - [ ] rgb color
+- [X] Color
+  - [X] rgb color
   - [X] hex color
-  - [ ] hsl color
+  - [X] hsl color
   - [X] color name
-  - [ ] background-color
+  - [X] background-color
 
 - [ ] Size
   - [ ] 3 unique relative units
@@ -60,12 +60,12 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
   
 - [ ] Selectors
   - [X] Class
-  - [ ] ID
-  - [ ] Universal
+  - [X] ID
+  - [X] Universal
   - [X] Element
   - [ ] Attribute
   - [ ] Pseudoclass
-  - [ ] List
+  - [X] List
   - [ ] Combinators
     - [ ] Descendant
     - [ ] Child

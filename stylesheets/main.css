@@ -58,5 +58,35 @@ nav {
 }
 
 video, audio {
-	background-color: rgb(193, 255, 193);
+	background-color: rgb(193, 255, 193)
 }
+
+/*
+ * Styling and Box model used for POD section
+ */
+#POD {
+	border: 2px solid aqua;
+	border-radius: 0.5cm;
+
+	margin: 1.5ch 1.5ch 1.5ch 1.5ch;
+
+	padding: 3% 3% 3% 3%;
+}
+
+#Agenda {
+	border-style: dashed;
+	border-color: magenta;
+	border-width: 2px;
+	border-radius: 0.5cm;
+	
+	margin-top: 10pt;
+	margin-bottom: 10pt;
+	margin-right: 30pc;
+	margin-left: 10pt;
+
+	padding-top: 1pc;
+	padding-bottom: 1pc;
+	padding-right: 1pc;
+	padding-left: 1pc;
+}
+

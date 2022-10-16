@@ -17,19 +17,19 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
   - [X] color name
   - [X] background-color
 
-- [ ] Size
-  - [ ] 3 unique relative units
+- [X] Size
+  - [X] 3 unique relative units
   - [X] 3 unique absolute units
-  - [ ] Height
-  - [ ] Width
-  - [ ] Max-width
-  - [ ] Min-width
+  - [X] Height
+  - [X] Width
+  - [X] Max-width
+  - [X] Min-width
 
-- [ ] Box Model
-  - [ ] Margins
+- [X] Box Model
+  - [X] Margins
     - [X] Longhand
     - [X] Shorthand
-    - [ ] Auto
+    - [X] Auto
   - [X] Padding
     - [X] Longhand
     - [X] Shorthand

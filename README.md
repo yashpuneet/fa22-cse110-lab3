@@ -46,8 +46,8 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
   - [X] Align
   - [X] Web font
   
-- [ ] Display x2
-- [ ] Position x2
+- [X] Display x2
+- [X] Position x2
 
 - [X] Psuedo Class
   - [X] hover

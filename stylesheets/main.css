@@ -110,3 +110,16 @@ img {
 	max-width: 80%;
 	height: 10cm;
 }
+
+a:hover {
+	color: orange;
+}
+
+a:active {
+	color: green;
+}
+
+a:visited {
+	background-color: cyan;
+	font-weight: bold;
+}

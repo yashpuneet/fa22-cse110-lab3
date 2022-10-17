@@ -8,27 +8,72 @@
 		<link rel="icon" type="image/x-icon" href="media/favicon.ico">
 
 		<link rel="stylesheet" href="stylesheets/main.css">
+
+		<style>
+			header {
+				display: grid;
+				grid-template-rows: 33% 33% 33%;
+				grid-template-columns: 25% 25% 25% 25%;
+				/*gap: 10px 20px;*/
+			}
+
+			#mainH {
+				grid-column-start: 2;
+				grid-column-end: 4;
+				grid-row-start: 1;
+				grid-row-end: 1;
+				text-align: center;
+			}
+
+			[alt="team meeting"] {
+				grid-column-start: 1;
+				grid-column-end: 1;
+				grid-row-start: 1;
+				grid-row-end: 1;
+			}
+
+			#yes {
+				grid-column-start: 2;
+				grid-column-end: 2;
+				grid-row-start:2;
+				grid-row-end: 2;
+				text-align: center;
+			}
+
+			#no {
+				grid-column-start: 3;
+				grid-column-end: 3;
+				grid-row-start: 2;
+				grid-row-end: 2;
+				text-align: center;
+			}
+
+			#det {
+				grid-column-start: 4;
+				grid-column-end: 4;
+				grid-row-start: 2;
+				grid-row-end: 2;
+			}
+		</style>	
+
 	</head>
+
 
 	<body>
 
 		<header>
 			<img src="media/image.png" alt="team meeting" width="800" height="475">
 
-			<h1 class="heading">Meeting 1 Minutes: Getting Set Up</h1>
+			<h1 class="heading" id="mainH">Meeting 1 Minutes: Getting Set Up</h1>
 
-			<div>
+			<div id="det">
 				<h3>Location: University of California, San Diego</h3>
 				<h3>Date: Thursday, October 6th, 2022</h3>
 				<h3>Time: 12:00 - 13:30</h3>
 			</div>
 
-			<hr>
-
-			<div>
-				<p>Members in Attendance: A, B, C, D, E</p>
-				<p>Members not in Attendance: F, G</p>
-			</div>
+				<p id ="yes">Members in Attendance: A, B, C, D, E</p>
+				<p id = "no">Members not in Attendance: F, G</p>
 
 		</header>
 

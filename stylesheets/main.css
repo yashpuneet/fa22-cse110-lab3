@@ -123,3 +123,9 @@ a:visited {
 	background-color: cyan;
 	font-weight: bold;
 }
+
+@media (max-width:600px) {
+	h2 {
+		color: red;
+	}
+}

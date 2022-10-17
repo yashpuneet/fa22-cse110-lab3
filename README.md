@@ -56,7 +56,7 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
 - [ ] Screen Width Media Query
 
 - [ ] Layouts: more than 2 children and more than 3 flexbox related attributes
-  - [ ] Flexbox
+  - [X] Flexbox
   - [ ] Grid
   
 - [ ] Selectors
@@ -64,7 +64,7 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
   - [X] ID
   - [X] Universal
   - [X] Element
-  - [ ] Attribute
+  - [X] Attribute
   - [ ] Pseudoclass
   - [X] List
   - [ ] Combinators

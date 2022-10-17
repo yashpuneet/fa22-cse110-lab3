@@ -40,8 +40,8 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
     - [X] Radius
 	- [X] Shorthand
     
-- [ ] Text
-  - [ ] Color
+- [X] Text
+  - [X] Color
   - [X] Decoration
   - [X] Align
   - [X] Web font
@@ -49,11 +49,11 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
 - [ ] Display x2
 - [ ] Position x2
 
-- [ ] Psuedo Class
-  - [ ] hover
-  - [ ] active
+- [X] Psuedo Class
+  - [X] hover
+  - [X] active
 
-- [ ] Screen Width Media Query
+- [X] Screen Width Media Query
 
 - [ ] Layouts: more than 2 children and more than 3 flexbox related attributes
   - [X] Flexbox
@@ -65,7 +65,7 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
   - [X] Universal
   - [X] Element
   - [X] Attribute
-  - [ ] Pseudoclass
+  - [X] Pseudoclass
   - [X] List
   - [ ] Combinators
     - [ ] Descendant

@@ -30,8 +30,18 @@ footer {
  * 	- Center alignment
  */
 nav {
-	text-align: center;
+	/*text-align: center;*/
+	display: flex;
+	align-items: center;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
 }
+
+[href] {
+	flex-grow: 300px;
+	flex-shrink: 100px;
+}
+
 
 /*
  * Styling for all headings in webpage

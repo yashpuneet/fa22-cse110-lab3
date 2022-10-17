@@ -59,7 +59,7 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
   - [X] Flexbox
   - [X] Grid
   
-- [ ] Selectors
+- [X] Selectors
   - [X] Class
   - [X] ID
   - [X] Universal
@@ -67,10 +67,10 @@ Link to minutes webpage [https://yashpuneet.github.io/fa22-cse110-lab3/](https:/
   - [X] Attribute
   - [X] Pseudoclass
   - [X] List
-  - [ ] Combinators
-    - [ ] Descendant
-    - [ ] Child
-    - [ ] General Sibling
-    - [ ] Adjacent Sibling
-    - [ ] Combining Selectors
+  - [X] Combinators
+    - [X] Descendant
+    - [X] Child
+    - [X] General Sibling
+    - [X] Adjacent Sibling
+    - [X] Combining Selectors
 
